@@ -30,7 +30,7 @@ nav:
 
 ### Этапы сборки и деплоя
 
-Ссылка на action.yml: [#](#)
+Ссылка на action.yml: [https://github.com/lemmaksim44/mkdocs-site-task2/blob/main/.github/workflows/action.yml](https://github.com/lemmaksim44/mkdocs-site-task2/blob/main/.github/workflows/action.yml)
 
 Описание этапов:
 
