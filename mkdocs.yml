@@ -9,3 +9,7 @@ theme:
 nav:
   - Главная: index.md
   - Документация MkDocs: documentation.md
+
+plugins:
+  - minify:
+      minify_html: true
